@@ -180,7 +180,7 @@ le rayon de **C4** et **C5** est aussi égale à 3x **r**.
 ![image](C4-C5.jpg)
 
 
-La zone hachurée correspond à la force exterieure de votre dombra (vue de face).
+La zone hachurée correspond à la forme exterieure de votre dombra (vue de face).
 
 ![image](hashure.png)
 
