@@ -144,10 +144,7 @@ Mesurer le rapport largeur/longueur a partir d'image. Prenez des images vue de f
 Cela permet de reproduire les dimensions ou les proportions, approximativement, d'instrument existant.
 
 
-- Tracer une ligne verticale qui représente la longueur de l'instrument
-- Tracer la limite basse perpendiculaire
-- Les trois cercles
-- Les deux grand cercles
+
 - Le manche
 - la tête
 
@@ -155,27 +152,37 @@ Cela permet de reproduire les dimensions ou les proportions, approximativement, 
 Une fois la largeur et la longueur  définit. Prenez votre feuille dans le sens "portrait".
 Au centre de la feuille tracer une droite verticale en pointillé. notez la "**V0**". Elle représente l'axe de symétrie (vue de face) de l'instrument.
 
+![image](v0.jpg)
 #### D. Tracer une ligne perpendiculaire
 Diviser la largeur par deux. Appelons ce nombre "**r**" (petit "r" pour "petit rayon").
 
 Tracer une ligne perpendiculaire à la précédente, à **r**+ 5cm du bord du bas. Appelons là **h0**.
-
+![image](h0.jpg)
 #### E. Tracer le premier cercle
 Prenez un compas tracer un cercle **C1** (de rayon **r**) dont le centre est ce point de croisement des deux droites précédentes (**V0** et **h0**). 
 
-
 Noter **g** et **d** les points d'intersection du cercle **C1** avec la droite perpendiculaire **h0**
+
+![image](C1.jpg)
+
 #### F. Tracer Les deux autres cercles
 Tracer deux autres cercles **C2** et **C3** (de rayon **r**) dont les centres sont respectivement **g** et **d**
 
 Marquer les points d'intersection **G** et **D** de **C2** et **C3** avec **h0**
+
+![image](C2-C3.jpg)
 
 #### G. Tracer les grands cercles
 Tracer les cercles **C4** et **C5** de centre **G** et **D** et dont le rayon correspond à la distance entre **G** et **d** (et **g** et **D**).
 
 le rayon de **C4** et **C5** est aussi égale à 3x **r**.
 
+![image](C4-C5.jpg)
+
+
 La zone hachurée correspond à la force exterieure de votre dombra (vue de face).
+
+![image](hashure.png)
 
 Pour dessiner la plateforme de montage, répéter les étapes F et G en ajoutant 2cm au rayon des cercles.
 
