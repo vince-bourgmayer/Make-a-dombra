@@ -148,9 +148,35 @@ Cela permet de reproduire les dimensions ou les proportions, approximativement, 
 ##### 3. Le nombre de côte qui constitue la caisse de résonance.
 Le nombre de côte de côte (ou d'éclisse) qui constitue le corps est extrêmement important. Il est le plus souvent compris entre 7 et 10 mais vous si vous pouvez faire moins ou plus. Dans le reste de l'ouvrage les démonstrations sont faites avec 7 côtes.
 
-Avec des éclisses de la même dimensions partout, voici différents découpages possibles:
+voici différents découpages possibles vec des éclisses de la même dimensions:
 
-@images des cercles de wikipédia
+**4 éclisses**
+
+![image](/bookPlan/4sides.png)
+
+**5 éclisses**
+
+![image](/bookPlan/5sides.png)
+
+**6 éclisses**
+
+![image](/bookPlan/6sides.png)
+
+**7 éclisses**
+
+![image](/bookPlan/7sides.png)
+
+**8 éclisses**
+
+![image](/bookPlan/8sides.png)
+
+**9 éclisses**
+
+![image](/bookPlan/9sides.png)
+
+**10 éclisses**
+
+![image](/bookPlan/10sides.png)
 
 source: Wikipédia.
 
