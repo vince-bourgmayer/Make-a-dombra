@@ -16,8 +16,6 @@ Les informations sur la fabrication de cet instrument sont difficiles d'accès a
 Il y a donc peu de sources accessibles et beaucoup d'entre-elle se copie les unes les autres. (il y doit y avoir 6 à 10 pages internet qui reprennent le contenu de la page wikipédia...)
 
 
-
-
 **Introduction sur la dombra**
 
 La dombra est un instrument de musique à corde pincée originaire d'asie centrale (Kazakhstan, Turquie, Mongolie, Chine). Il existe un grand nombre de variantes qui ont toutes leurs spécificités et qui possèdent un répertoire musicale (et parfois technique) propre.
@@ -30,6 +28,22 @@ J'ai ainsi pu lire ou entendre :
 > "Un vrai Kazakh n'est pas un Kazakh. Un vrai Kazakh c'est une dombra".
 > 
 >"Un vrai Kazakh n'abandonne jamais sa dombra" 
+
+
+**Etudier des Dombras**
+Vous n'en avez pas sous la main ? C'est pas grave! Il suffit de quelques photos ( vue de face et vue de profil) piochées sur internet.
+
+- Qu'est ce qui la compose ?
+une caisse de résonance, un manche, des cordes, etc...
+
+- Quelles dimensions ? Grandes, petites, étroites, larges, ...
+
+- Quelles esthétiques ? Couleurs, formes, décorations, etc...
+
+Et maintenant la sonorité, allez sur de célèbre service de musique ou vidéo en ligne et écouter.
+
+Inspirez vous!
+
 
 ## Sommaire
 
@@ -83,11 +97,7 @@ Le bois doit être débité en quartier pour avoir les fibres bien perpendiculai
 - Les câles de montages
 - Le moule de cintrage
 
-## La construction
-
-@TODO Schéma suggéré pour l'ordre des étapes
-
-### I. Dessiner le plan (facultatif)
+### I. Dessiner le plan 
 
 **Matériels nécessaires:**
 - crayon de papier
@@ -100,23 +110,13 @@ Le bois doit être débité en quartier pour avoir les fibres bien perpendiculai
 - grand compas (DIY)
 - Papier au format A0 ou proche (mini 100x80cm)
 
-#### A. Etudier la dombra
-Vous n'en avez pas sous la main ? C'est pas grave! Il suffit de quelques photos ( vue de face et vue de profil) piochées sur internet.
 
-- Qu'est ce qui la compose ?
-une caisse de résonance, un manche, des cordes, etc...
-
-- Quelles dimensions ? Grandes, petites, étroites, larges, ...
-
-- Quelles esthétiques ? Couleurs, formes, décorations, etc...
-
-Et maintenant la sonorité, allez sur de célèbre service de musique ou vidéo en ligne et écouter.
-
-Inspirez vous!
+Vous aurez besoin de dessinez deux choses sous trois angles différents : La plateforme de montage et l’instrument en lui-même. Vous pouvez tout faire sur le même plan ou séparément.
 
 
-#### B. Définir les dimensions
+#### A. Définir les dimensions
 La première chose à faire est de définir les dimensions générales de l'instrument: sa plus grande largeur puis sa plus grande longueur.
+
 
 ##### 1. La plus grande largeur.
 Il s'agit de la partie la plus large ( vue de face) de l'instrument. Comment ? Vous aviez devinez?!
@@ -141,64 +141,174 @@ Je vous suggère de tenir compte de:
 **Astuce:**
 Mesurer le rapport largeur/longueur a partir d'image. Prenez des images vue de face de la sombra. Mesurer avec une règle (directement sur l'écran ça marche aussi) ou en nombre de pixel avec un logiciel de dessin (GIMP, Paint, etc...). Calculer le ratio entre les deux (L/l ou l/L) et servez vous en pour définir la largeur a partir de la longueur ou l'inverse.
 
+Vous pouvez également le faire pour des parties spécifiques de l'instrument (le corps, la tête, etc.)
+
 Cela permet de reproduire les dimensions ou les proportions, approximativement, d'instrument existant.
 
+##### 3. Le nombre de côte qui constitue la caisse de résonance.
+Le nombre de côte de côte (ou d'éclisse) qui constitue le corps est extrêmement important. Il est le plus souvent compris entre 7 et 10 mais vous si vous pouvez faire moins ou plus. Dans le reste de l'ouvrage les démonstrations sont faites avec 7 côtes.
 
+Avec des éclisses de la même dimensions partout, voici différents découpages possibles:
 
-- Le manche
-- la tête
+@images des cercles de wikipédia
 
-#### C. Tracer la ligne de symétrie
+source: Wikipédia.
+
+Notez bien la valeur de l'angle si vous souhaitez le reproduire à la main avec un rapporteur. 
+
+**note:** Les valeurs impaires ont l'avantages de fournir une éclisse parrallèle à la table, ce qui permet de poser l'instrument facilement.
+
+#### B. Vue de face
+
+##### 1. Tracer la ligne de symétrie
 Une fois la largeur et la longueur  définit. Prenez votre feuille dans le sens "portrait".
 Au centre de la feuille tracer une droite verticale en pointillé. notez la "**V0**". Elle représente l'axe de symétrie (vue de face) de l'instrument.
 
-![image](v0.jpg)
-#### D. Tracer une ligne perpendiculaire
+![image](/bookPlan/v0.jpg)
+##### 2. Tracer une ligne perpendiculaire
 Diviser la largeur par deux. Appelons ce nombre "**r**" (petit "r" pour "petit rayon").
 
 Tracer une ligne perpendiculaire à la précédente, à **r**+ 5cm du bord du bas. Appelons là **h0**.
-![image](h0.jpg)
-#### E. Tracer le premier cercle
+
+![image](/bookPlan/h0.jpg)
+
+##### 3. Tracer le premier cercle
 Prenez un compas tracer un cercle **C1** (de rayon **r**) dont le centre est ce point de croisement des deux droites précédentes (**V0** et **h0**). 
 
-Noter **g** et **d** les points d'intersection du cercle **C1** avec la droite perpendiculaire **h0**
+Marquer **g** et **d** les points d'intersection du cercle **C1** avec la droite perpendiculaire **h0**
+![image](/bookPlan/C1.jpg)
 
-![image](C1.jpg)
-
-#### F. Tracer Les deux autres cercles
+##### 4. Tracer Les deux autres cercles
 Tracer deux autres cercles **C2** et **C3** (de rayon **r**) dont les centres sont respectivement **g** et **d**
 
 Marquer les points d'intersection **G** et **D** de **C2** et **C3** avec **h0**
+![image](/bookPlan/C2-C3.jpg)
 
-![image](C2-C3.jpg)
-
-#### G. Tracer les grands cercles
+##### 5. Tracer les grands cercles
 Tracer les cercles **C4** et **C5** de centre **G** et **D** et dont le rayon correspond à la distance entre **G** et **d** (et **g** et **D**).
 
-le rayon de **C4** et **C5** est aussi égale à 3x **r**.
-
-![image](C4-C5.jpg)
-
+le rayon de **C4** et **C5** est aussi égale à 2.5 x **r**.
+![image](/bookPlan/C4-C5.jpg)
 
 La zone hachurée correspond à la forme exterieure de votre dombra (vue de face).
+![image](/bookPlan/hashure.png)
 
-![image](hashure.png)
 
-Pour dessiner la plateforme de montage, répéter les étapes F et G en ajoutant 2cm au rayon des cercles.
+##### 6.Tracer les contours du manche
+Tracer deux lignes verticales à égales distance de **v0**. C'est à dire la moitié de la largeur choisit du manche.
 
-Pour dessiner la forme intérieur répeter les étapes F et G en enlevant 3mm.
- 
-### II. La plateforme 
-#### A. Le sol
-#### B. Le hill-jig
- Les différentes possibilités:
-- 7, 8 ou 9 côtes
+![image](/bookPlan/manche.jpg)
 
-@TODO copiez collez les images des cercles venant de wikipédia en citant la source.
-#### C. Les 4 éléments
-Ce sont les cales pour le hill-jig
-#### D. Le temps
-C'est la cale pour le tasseau arrière
+Vous pouvez aussi avoir choisit d'avoir un manche plus large au niveau du corps et plus étroit au niveau de la tête. Dans ce cas, marquer les bords à chaques extrémités et relier les points.
+
+##### 7. Dessiner le raccord entre le manche et le corps
+
+Vous êtes libre de faire comme vous voulez. Arrondis, ligne droite, courbe à main levée. Les plus courageux pourraient tenter de faire en étoile...mais je ne suis pas sûr que ça soit très pratique...
+
+Pour faire un arrondis propre, essayez plusieurs taille en essayant de raccorder les bords de la manière qui vous plait. 
+
+##### 8. Dessiner la forme intérieur du corps
+
+Pour dessiner la forme intérieur répeter les étapes 4 et 5 en enlevant l'épaisseur de vos éclisses (2.5mm à 3mm) à **r**.
+
+Vous pouvez le refaire une seconde fois en retirant à nouveau (2.5mm à 3mm)pour ajouter les contre-éclisses. mais les dessiner est facultatif.
+
+
+##### 9. Dessiner le tasseau arrière
+
+##### 10. Dessiner le tasseau avant.
+
+##### 11. Dessiner le sound-hole
+
+##### 12. Dessiner la tête
+
+##### 13. Les barrages
+Je n'ai malheuresement aucune expérience significative ou recul. Il y a des vidéos extrêmement interessante sur internet mais essentiellement en anglais.
+
+Je n'en conseillerai que trois: deux autour du sound-hole et une sur **h0**.
+
+Prenez des risques!
+
+##### 14. Le chevalet et le sillet
+
+##### 15. Les frettes (facultatif)
+
+##### 16. Les cordes
+Dessiner deux lignes de 0.70mm (ou presque) d'épaisseur à l'emplacement des cordes. Attention à tenir compte de l'écart avec le bord du manche ainsi que de l'espacement entre les deux cordes.
+
+##### 17. Les mécaniques (chevilles)
+Dessiner un simple cercle du diamètre de vos chevilles pour chacune des chevilles.
+
+Puis reliez les cordes aux bords des cercles de vos chevilles.
+
+
+** Les étapes suivantes concernent le plan de la plateforme de montage **
+
+##### 18. Dessiner la plateforme
+Pour dessiner la plateforme de montage, répéter les étapes 4 et 5 en ajoutant 2cm au rayon des cercles. 
+
+##### 19. Dessiner le trou de la plateforme
+Le trou de la plateforme, permet d'accéder à l'intérieur de l'instrument pendant la construction. Il permet également à la fin du collage des éclisses de retirer la vis qui maintient le tasseau arrière. A cet effet, il doit être assez grand pour permettre de passer un tournevis.
+
+répéter les étapes 4 et 5 en divisant **r** par 2.
+
+
+##### 20. Hill-jig 
+J'ai choisit d'appeler cette pièce "hill-jig" car la forme m'a fait penser à une colline...
+
+Dessiner simplement son épaisseur autour de la ligne **h0** (c'est à dire que **h0** doit être au centre du hill-jig. 2 à 3mm sont suffisants pour éviter la création d'une zone plate dans les bords du corps.
+
+##### 21. les 4 éléments
+Les 4 éléments (le feu, l'eau, la terre et l'air) sont 4 cales qui aide à maintenir le hill-jig en place. j'ai choisi de les appeler comme ça car c'était plus sympa que cale 1, cale 2, cale 3 et cale 4.
+
+Entre le bord intérieur du corps et le trou de la plateforme, dessiner 4 rectangles. Dessiner également les trous à l'intérieur pour les tourillons qui les maintiendront en place.
+Marquer enfin, un raccord entre les deux qui correspond à un tourrilon qui traverse le hill-jig pour eviter qu'il glisse lorsque l'on colle les éclisses.
+
+##### 22. Le temps
+Le temps est la cale pour le tasseau arrière. J'ai choisit de lui donner ce nom pour aller dans le sens des 4 éléments... (chacun son délire, on ne juge pas!)
+
+Cette cale sert à maintenir le tasseau arrière en place pendant le collage des éclisses. mettez une simple vis à travers pour maintenir le tasseau.
+La cale ne doit pas être beaucoup plus large que le tasseau afin de ne pas gêner les éclisses.
+
+Pensez à représenter les trois tourrilons qui permettront de la maintenir en place.
+
+Vous pouvez également représenter en pointillé le canal de la vis (par dessus la ligne **v0**.
+
+#### C. Vue de dessous/dessus
+##### 1. La table
+##### 2. Le tasseau arrière
+##### 3. Le tasseau avant
+##### 4. Le manche
+##### 5. Les barrages
+##### 6. Les éclisses
+
+** Les étapes suivantes concernent le plan de la plateforme de montage **
+##### 7. La plateforme
+##### 8. Le hill-jig
+##### 9. Les 4 éléments
+##### 10. Le temps
+
+#### D. Vue de profil
+
+##### 1. La table
+##### 2. Le tasseau arrière
+##### 3. Le tasseau avant
+##### 4. Le manche
+##### 5. Les barrages
+##### 6. Les éclisses
+##### 7. La tête
+##### 8. Les mécaniques
+##### 9. Les frettes
+##### 10. Le chevalet et le sillet
+##### 11. Les cordes
+
+** Les étapes suivantes concernent le plan de la plateforme de montage **
+##### 7. La plateforme
+##### 8. Le hill-jig
+##### 9. Les 4 éléments
+##### 10. Le temps
+
+
 
 ### III. Les tasseaux
 #### A. Tasseaux arrière
