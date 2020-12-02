@@ -233,6 +233,14 @@ Vous êtes libre de faire comme vous voulez. Arrondis, ligne droite, courbe à m
 
 Pour faire un arrondis propre, essayez plusieurs taille en essayant de raccorder les bords de la manière qui vous plait. 
 
+Voici un exemple:
+
+![image](/bookPlan/neck-body.jpg)
+
+et sans les traits de construction:
+
+![image](/bookPlan/neck-body--nobuildline-2.jpg)
+
 ##### 8. Dessiner la forme intérieur du corps
 
 Pour dessiner la forme intérieur répeter les étapes 4 et 5 en enlevant l'épaisseur de vos éclisses (2.5mm à 3mm) à **r**.
