@@ -187,10 +187,10 @@ Notez bien la valeur de l'angle si vous souhaitez le reproduire à la main avec 
 #### B. Vue de face
 
 ##### 1. Tracer la ligne de symétrie
-Une fois la largeur et la longueur  définit. Prenez votre feuille dans le sens "portrait".
 Au centre de la feuille tracer une droite verticale en pointillé. notez la "**V0**". Elle représente l'axe de symétrie (vue de face) de l'instrument.
 
 ![image](/bookPlan/v0.jpg)
+
 ##### 2. Tracer une ligne perpendiculaire
 Diviser la largeur par deux. Appelons ce nombre "**r**" (petit "r" pour "petit rayon").
 
@@ -202,21 +202,25 @@ Tracer une ligne perpendiculaire à la précédente, à **r**+ 5cm du bord du ba
 Prenez un compas tracer un cercle **C1** (de rayon **r**) dont le centre est ce point de croisement des deux droites précédentes (**V0** et **h0**). 
 
 Marquer **g** et **d** les points d'intersection du cercle **C1** avec la droite perpendiculaire **h0**
+
 ![image](/bookPlan/C1.jpg)
 
 ##### 4. Tracer Les deux autres cercles
 Tracer deux autres cercles **C2** et **C3** (de rayon **r**) dont les centres sont respectivement **g** et **d**
 
 Marquer les points d'intersection **G** et **D** de **C2** et **C3** avec **h0**
+
 ![image](/bookPlan/C2-C3.jpg)
 
 ##### 5. Tracer les grands cercles
 Tracer les cercles **C4** et **C5** de centre **G** et **D** et dont le rayon correspond à la distance entre **G** et **d** (et **g** et **D**).
 
 le rayon de **C4** et **C5** est aussi égale à 2.5 x **r**.
+
 ![image](/bookPlan/C4-C5.jpg)
 
 La zone hachurée correspond à la forme exterieure de votre dombra (vue de face).
+
 ![image](/bookPlan/hashure.png)
 
 
@@ -243,15 +247,28 @@ et sans les traits de construction:
 
 ##### 8. Dessiner la forme intérieur du corps
 
-Pour dessiner la forme intérieur répeter les étapes 4 et 5 en enlevant l'épaisseur de vos éclisses (2.5mm à 3mm) à **r**.
+**Technique 1**
+Pour dessiner la forme intérieur répeter l'étape 5 en décalant C4 vers la droite et C5 vers la gauche chaque de l'épaisseur de votre éclisse (normalement 2.5mm à 3mm). 
 
-Vous pouvez le refaire une seconde fois en retirant à nouveau (2.5mm à 3mm)pour ajouter les contre-éclisses. mais les dessiner est facultatif.
+Ensuite redessinez C1 en le décallant de l'épaisseur de votre éclisse vers le haut de la feuile.
+
+**Technique 2**
+L'autre solution consiste à redessiner chaque cercle en enlevant l'épaisseur de votre éclisse de son rayon.
+
+
+
+**Note**
+Vous pouvez le refaire une seconde fois en décalant (ou réduisant) à nouveau de l'épaisseur de votre éclisse (2.5mm à 3mm)pour ajouter les contre-éclisses. mais les dessiner est facultatif.
 
 
 ##### 9. Dessiner le tasseau arrière
+Le tasseau arrière à pour objectif de maintenir les éclisses en place à l'arrière de l'instrument. C'est le point de jonction de toutes les extrémités arrière de chaque éclisse. Il faut lui donner une bonne épaisseur pour sa solidité et choisir un bois léger pour ne pas alourdir trop l'instrument. On peut utiliser le même type de bois que pour les tasseau d'une guitare.
+![image](/bookPlan/backDowell.png)
 
 ##### 10. Dessiner le tasseau avant.
-
+C'est une des pièces les plus difficiles à faire. C'est l'endroit ou les éclisses sont collées au manche. Il est directement sculpté dans le manche.
+**Note**, il faut que la pièce du bois utilisé par le manche, prenne la plus grande largeur du tasseau avant au minimum.
+![image](/bookPlan/frontDowell.png)
 ##### 11. Dessiner le sound-hole
 
 ##### 12. Dessiner la tête
@@ -259,7 +276,7 @@ Vous pouvez le refaire une seconde fois en retirant à nouveau (2.5mm à 3mm)pou
 ##### 13. Les barrages
 Je n'ai malheuresement aucune expérience significative ou recul. Il y a des vidéos extrêmement interessante sur internet mais essentiellement en anglais.
 
-Je n'en conseillerai que trois: deux autour du sound-hole et une sur **h0**.
+Je n'en ai utilisé que trois: deux autour du sound-hole et une sur **h0**.
 
 Prenez des risques!
 
@@ -311,7 +328,9 @@ Vous pouvez également représenter en pointillé le canal de la vis (par dessus
 #### C. Vue de dessous/dessus
 ##### 1. La table
 ##### 2. Le tasseau arrière
+
 ##### 3. Le tasseau avant
+
 ##### 4. Le manche
 ##### 5. Les barrages
 ##### 6. Les éclisses
@@ -326,7 +345,9 @@ Vous pouvez également représenter en pointillé le canal de la vis (par dessus
 
 ##### 1. La table
 ##### 2. Le tasseau arrière
+
 ##### 3. Le tasseau avant
+
 ##### 4. Le manche
 ##### 5. Les barrages
 ##### 6. Les éclisses
@@ -483,6 +504,8 @@ Grâce à dombra.net, je sais que les frettes sont normalement de 0.60 ou 0.70 m
 @ Calculer les positions des frettes
 
 @ todo faire les noeud
+
+Après essai, l'utilisation du fil de nylon n'est pas adapté... J'ai finis par installer des frettes en métal classique. (et J'ai bien râté mon installation)...
 
 #### B. Les cordes
 Traditionnellement c'est du boyau qui est utilisé, mais aujourd'hui on trouve surtout des cordes en nylon. Depuis quelques temps de nouveau matériau apparaisse comme le nylgut (boyau synthétique). 
