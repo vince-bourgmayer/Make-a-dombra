@@ -263,7 +263,7 @@ Vous pouvez le refaire une seconde fois en décalant (ou réduisant) à nouveau 
 
 ##### 9. Dessiner le tasseau arrière
 Le tasseau arrière à pour objectif de maintenir les éclisses en place à l'arrière de l'instrument. C'est le point de jonction de toutes les extrémités arrière de chaque éclisse. Il faut lui donner une bonne épaisseur pour sa solidité et choisir un bois léger pour ne pas alourdir trop l'instrument. On peut utiliser le même type de bois que pour les tasseau d'une guitare.
-![image](/bookPlan/backDowell.png)
+![image](/bookPlan/BackDowell.png)
 
 ##### 10. Dessiner le tasseau avant.
 C'est une des pièces les plus difficiles à faire. C'est l'endroit ou les éclisses sont collées au manche. Il est directement sculpté dans le manche.
