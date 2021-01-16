@@ -560,7 +560,7 @@ et intégrer des partitions/tablatures faites par moi
 - Morning in slag ravine (myazaki / daisuke minamizawa)
 
 - Vive le vent d'hiver
-![image](/partition/viveleventdhiver.png)
+![image](/partition/Viveleventdhiver.png)
 
 
 ## Sources et références
